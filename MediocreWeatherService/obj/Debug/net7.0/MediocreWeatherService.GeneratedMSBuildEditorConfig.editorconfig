@@ -20,10 +20,6 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/Software Development/MediocreWeatherService/MediocreWeatherService/Components/LocationSearch.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2NhdGlvblNlYXJjaC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
 [G:/Software Development/MediocreWeatherService/MediocreWeatherService/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -43,6 +39,10 @@ build_metadata.AdditionalFiles.CssScope =
 [G:/Software Development/MediocreWeatherService/MediocreWeatherService/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[G:/Software Development/MediocreWeatherService/MediocreWeatherService/Components/LocationSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2NhdGlvblNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-5kk0pxvb1i
 
 [G:/Software Development/MediocreWeatherService/MediocreWeatherService/Components/LocationSelect.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMb2NhdGlvblNlbGVjdC5yYXpvcg==
