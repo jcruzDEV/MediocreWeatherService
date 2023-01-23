@@ -1,0 +1,16 @@
+﻿<div class="card-group">
+    @foreach (var location in Locations)
+    {
+        <div class="card">
+            <div class="card-body">
+                <p class="card-title d-inline">
+                    @location.Name
+                </p>
+                <p class="card-text">@location.State - @location.Country</p>
+            </div>
+            <div class="card-footer text-center">
+                <button class="btn btn-primary" @onclick="() => OnSelectLocation.InvokeAsync(location)">Select</button>
+            </div>
+        </div>
+    }
+</div>

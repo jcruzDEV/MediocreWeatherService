@@ -1,0 +1,23 @@
+﻿@using MediocreWeatherService.DTO;
+@using Microsoft.AspNetCore.Components
+@using MediocreWeatherService.Services.Interfaces
+
+<EditForm Model="@locationSearch" OnValidSubmit="@HandleValidSubmit">
+    <DataAnnotationsValidator/>
+    <ValidationSummary/>
+    <p>
+        <label>
+            Enter a place:
+            <InputText @bind-Value="locationSearch.Location" class="form-control"/>
+        </label>
+    </p>
+    <p>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </p>
+</EditForm>
+
+@if (locations != null)
+{
+    <LocationSelect Locations="locations"
+                OnSelectLocation="HandleOnSelectLocation" />
+}
