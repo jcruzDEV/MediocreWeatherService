@@ -57,6 +57,14 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\images\\gradientcloudslogo.png",
+      "PackagePath": "staticwebassets\\images\\gradientcloudslogo.png"
+    },
+    {
+      "Id": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\images\\sunandcloudslogo.png",
+      "PackagePath": "staticwebassets\\images\\sunandcloudslogo.png"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MediocreWeatherService.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -1,4 +1,3 @@
-using MediocreWeatherService.Data;
 using MediocreWeatherService.Services;
 using MediocreWeatherService.Services.Interfaces;
 using Microsoft.AspNetCore.Components;
@@ -9,7 +8,6 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddServerSideBlazor();
-builder.Services.AddSingleton<WeatherForecastService>();
 builder.Services.AddSingleton<OpenWeatherService>();
 
 var app = builder.Build();

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+p2Er9T5JChjHFTfuUKsACfreIibM3P7VFT/GsKuX7E=",
+  "Hash": "9AQasNpvAeNRJhNHe2uG+iiKQP13deLyqCTuNKULNNU=",
   "Source": "MediocreWeatherService",
   "BasePath": "_content/MediocreWeatherService",
   "Mode": "Default",
@@ -270,6 +270,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\images\\gradientcloudslogo.png",
+      "SourceId": "MediocreWeatherService",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\",
+      "BasePath": "_content/MediocreWeatherService",
+      "RelativePath": "images/gradientcloudslogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gradientcloudslogo.png"
+    },
+    {
+      "Identity": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\images\\sunandcloudslogo.png",
+      "SourceId": "MediocreWeatherService",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\Software Development\\MediocreWeatherService\\MediocreWeatherService\\wwwroot\\",
+      "BasePath": "_content/MediocreWeatherService",
+      "RelativePath": "images/sunandcloudslogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sunandcloudslogo.png"
     }
   ]
 }

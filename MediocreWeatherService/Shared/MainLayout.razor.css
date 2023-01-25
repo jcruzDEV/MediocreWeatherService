@@ -9,11 +9,11 @@ main {
 }
 
 .sidebar {
-    background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
+    background-image: linear-gradient(180deg, #b0509e 0%, #42c3d4 70%);
 }
 
 .top-row {
-    background-color: #f7f7f7;
+    background-color: #b0509e;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
@@ -68,3 +68,13 @@ main {
         padding-right: 1.5rem !important;
     }
 }
+
+/*
+    logo color codes
+    logoOne: gradient from #b0509e to #42c3d4
+    logoTwo: 
+        cloudBody: #beddfc
+        outline: #090e3f
+        sunbody: #090e3f
+        rainbody: 5893d4
+*/
